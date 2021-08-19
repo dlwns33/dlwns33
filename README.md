@@ -1,4 +1,4 @@
-### Yi Joon Choi (Hayden) 최이준 
+### Yi Joon Choi (Hayden) 최이준🦦
 
 
 [![dlwns33's github stats](https://github-readme-stats.vercel.app/api?username=dlwns33&show_icons=true)](https://github.com/dlwns33/github-readme-stats)
