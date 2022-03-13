@@ -25,6 +25,7 @@
 - 28th BE SOPT iOS Part
 - 28th BE SOPT iOS Part MVP
 - 29th WE SOPT iOS Part
+- 30th THE SOPT Plan Part
 - iOS Developer : 나다 NADA - 나를 다 담은 명함 서비스
 - iOS Lead Developer : Keepin - 선물 기록/리마인더 서비스
 - iOS Lead Developer : FILL-IN - 필름카메라 현상소, 필름 정보제공 서비스
