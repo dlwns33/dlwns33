@@ -20,6 +20,7 @@
 |[나다 NADA - 나를 다 담은 명함 서비스](https://github.com/TeamNADA/NADA-iOS-ForRelease)|28th BE SOPT SOPKATHON|iOS, Swift|대상|2021|
 |[Keepin - 선물 기록/리마인더 서비스](https://github.com/TeamKeepin/Keepin-iOS)|28th BE SOPT APPJAM|iOS, Swift|대상|2021|
 |[FILL-IN - 필름카메라 현상소, 필름 정보제공 서비스](https://github.com/TeamFILL-IN/Fill-iOS)|29th WE SOPT APPJAM|iOS, Swift|대상|2022|
+|[헤커 - 개발자를 위한 커밋 기반 캐릭터 육성 서비스](https://github.com/zaranaramorimori/HACKER-iOS)|30th THE SOPT SOPT-TERM|iOS, Swift|인기상|2022|
 
 ### ☁ Experience
 - 28th BE SOPT iOS Part
@@ -27,7 +28,7 @@
 - 29th WE SOPT iOS Part
 - 30th THE SOPT Plan Part
 - iOS Developer : 나다 NADA - 나를 다 담은 명함 서비스
-- iOS Developer : HACKER - Hair Commit
+- iOS Developer : 헤커 HACKER - 개발자를 위한 커밋 기반 캐릭터 육성 서비스
 - iOS Lead Developer : Keepin - 선물 기록/리마인더 서비스
 - iOS Lead Developer : FILL-IN - 필름카메라 현상소, 필름 정보제공 서비스
 
