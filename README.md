@@ -21,12 +21,14 @@
 |[Keepin - 선물 기록/리마인더 서비스](https://github.com/TeamKeepin/Keepin-iOS)|28th BE SOPT APPJAM|iOS, Swift|대상|2021|
 |[FILL-IN - 필름카메라 현상소, 필름 정보제공 서비스](https://github.com/TeamFILL-IN/Fill-iOS)|29th WE SOPT APPJAM|iOS, Swift|대상|2022|
 |[헤커 - 개발자를 위한 커밋 기반 캐릭터 육성 서비스](https://github.com/zaranaramorimori/HACKER-iOS)|30th THE SOPT SOPT-TERM|iOS, Swift|인기상|2022|
+|[Dear today](https://github.com/TeamDearToday)|30th THE SOPT APPJAM|Main Product Manager|대상|2022|
 
 ### ☁ Experience
 - 28th BE SOPT iOS Part
 - 28th BE SOPT iOS Part MVP
 - 29th WE SOPT iOS Part
 - 30th THE SOPT Plan Part
+- Main Product Manager : Dear today - 시간 여행을 통해 지금의 행복에 대해 생각할 수 있도록 도와주는 스토리텔링 게임 서비스
 - iOS Developer : 나다 NADA - 나를 다 담은 명함 서비스
 - iOS Developer : 헤커 HACKER - 개발자를 위한 커밋 기반 캐릭터 육성 서비스
 - iOS Lead Developer : Keepin - 선물 기록/리마인더 서비스
